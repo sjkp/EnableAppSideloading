@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<feature xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" dslVersion="1.0.0.0" Id="4a047053-d3bf-4bc1-b5c3-cadf135e4c75" description="This feature activates the hidden app sideloading feature that is necessary to deploy apps to a site-collection." featureId="4a047053-d3bf-4bc1-b5c3-cadf135e4c75" imageUrl="" scope="Site" solutionId="00000000-0000-0000-0000-000000000000" title="EnableHiddenAppSideLoading" version="" deploymentPath="$SharePoint.Project.FileNameWithoutExtension$_$SharePoint.Feature.FileNameWithoutExtension$" xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/FeatureModel">
+  <activationDependencies>
+    <customFeatureActivationDependency minimumVersion="" featureTitle="Enable hidden app sideloading feature" featureDescription="Enable hidden app sideloading feature" featureId="ae3a1339-61f5-4f8f-81a7-abd2da956a7d" solutionId="00000000-0000-0000-0000-000000000000" solutionUrl="" />
+  </activationDependencies>
+</feature>

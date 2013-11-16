@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" dslVersion="1.0.0.0" Id="1e57dbe1-7e0b-4778-a9e6-7c25fc1e78f3" solutionId="1e57dbe1-7e0b-4778-a9e6-7c25fc1e78f3" resetWebServer="false" sharePointProductVersion="15.0" name="EnableSideLoading" xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel">
+  <features>
+    <featureReference itemId="8c501ba3-0cf9-44d8-a90c-02992c14017e" />
+  </features>
+</package>
